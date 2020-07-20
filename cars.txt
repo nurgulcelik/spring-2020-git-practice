@@ -7,7 +7,6 @@ KIA
 BMW
 Jaguar
 Bently
-<<<<<<< Updated upstream
 Jeep
 Hyundai
 Nissan
